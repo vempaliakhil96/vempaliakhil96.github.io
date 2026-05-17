@@ -13,11 +13,21 @@ about:
       href: https://github.com/vempaliakhil96
 ---
 
-Hi! I'm Akhil. I'm a Machine Learning Engineer working with LLMs.
+Hi! I'm Akhil. I'm a Machine Learning Engineer at Atlassian working with LLMs.
 
 ## Experience
 
-### Netomi
+### ![Atlassian](assets/company-logos/atlassian.svg){.company-logo} Atlassian
+
+I am currently an ML Engineer at [Atlassian](https://www.atlassian.com/), working on Rovo Dev and applied AI systems for developer productivity.
+
+- Shipped production features for Rovo Dev CLI/TUI, including session hooks, slash commands, PR review flows, and agent-session capture.
+- Improved reliability by fixing Sentry-backed crashes across session restore, deferred tool calls, ACP MCP server mapping, terminal I/O, and Textual widget lifecycles.
+- Built observability and evaluation tooling with Sentry, OpenTelemetry, MLflow, Databricks, and Bitbucket Pipelines.
+- Developed agentic workflows for Jira issue scoping, PR analysis, SWE-bench style evaluations, and AI-assisted code review.
+- Added platform hardening for security, CI/CD, model selection, logging, tracing, and cross-platform file handling.
+
+### ![Netomi](assets/company-logos/netomi.webp){.company-logo .company-logo-wide} Netomi
 
 Since July'19 I have been working at [Netomi](https://www.netomi.com/) as an ML Engineer and a Data Scientist. It has been a wonderful experience with great teammates and mentors I got the opportunity to learn a lot about software engineering, data science and machine learning. Some of my key skills I picked up at Netomi are
 
@@ -25,7 +35,7 @@ Since July'19 I have been working at [Netomi](https://www.netomi.com/) as an ML 
 - Working with LLM frameworks to develop great products
 - Developing enterprise grade services utilising LLMs and similar scale models to serve high volume traffic.
 
-### Fractal Analytics
+### ![Fractal Analytics](assets/company-logos/fractal.svg){.company-logo .company-logo-fractal} Fractal Analytics
 
 This was my first job out of university! Here I worked as a consultant, I worked with visualising and transforming huge volumes of data for major Fortune 500 companies.
 
@@ -57,6 +67,16 @@ Here are some of the skills that I'm proficient in, in no specific order.
 - Terraform
 - Linux
 - Langchain
+- OpenTelemetry
+- Sentry
+- MLflow
+- Databricks
+- Bitbucket Pipelines
+- Textual
+- Pydantic
+- Typer
+- Loguru
+- MCP
 :::
 
 ## Education
