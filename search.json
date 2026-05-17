@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Akhil Vempali",
     "section": "",
-    "text": "Hi! I’m Akhil. I’m a Machine Learning Engineer working with LLMs."
+    "text": "Hi! I’m Akhil. I’m a Machine Learning Engineer at Atlassian working with LLMs."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Akhil Vempali",
     "section": "Experience",
-    "text": "Experience\n\nNetomi\nSince July’19 I have been working at Netomi as an ML Engineer and a Data Scientist. It has been a wonderful experience with great teammates and mentors I got the opportunity to learn a lot about software engineering, data science and machine learning. Some of my key skills I picked up at Netomi are\n\nWorking with Open Source LLMs and optimising them using SOTA techniques.\nWorking with LLM frameworks to develop great products\nDeveloping enterprise grade services utilising LLMs and similar scale models to serve high volume traffic.\n\n\n\nFractal Analytics\nThis was my first job out of university! Here I worked as a consultant, I worked with visualising and transforming huge volumes of data for major Fortune 500 companies."
+    "text": "Experience\n\n Atlassian\nI am currently an ML Engineer at Atlassian, working on Rovo Dev and applied AI systems for developer productivity.\n\nShipped production features for Rovo Dev CLI/TUI, including session hooks, slash commands, PR review flows, and agent-session capture.\nImproved reliability by fixing Sentry-backed crashes across session restore, deferred tool calls, ACP MCP server mapping, terminal I/O, and Textual widget lifecycles.\nBuilt observability and evaluation tooling with Sentry, OpenTelemetry, MLflow, Databricks, and Bitbucket Pipelines.\nDeveloped agentic workflows for Jira issue scoping, PR analysis, SWE-bench style evaluations, and AI-assisted code review.\nAdded platform hardening for security, CI/CD, model selection, logging, tracing, and cross-platform file handling.\n\n\n\n Netomi\nSince July’19 I have been working at Netomi as an ML Engineer and a Data Scientist. It has been a wonderful experience with great teammates and mentors I got the opportunity to learn a lot about software engineering, data science and machine learning. Some of my key skills I picked up at Netomi are\n\nWorking with Open Source LLMs and optimising them using SOTA techniques.\nWorking with LLM frameworks to develop great products\nDeveloping enterprise grade services utilising LLMs and similar scale models to serve high volume traffic.\n\n\n\n Fractal Analytics\nThis was my first job out of university! Here I worked as a consultant, I worked with visualising and transforming huge volumes of data for major Fortune 500 companies."
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Akhil Vempali",
     "section": "Skills",
-    "text": "Skills\nHere are some of the skills that I’m proficient in, in no specific order.\n\n\nPython\nHTML\nCSS\nFastAPI\nFlask\nPyTorch\nTransformers\nData Structures and Algorithms\nRedis\nElasticsearch\nSQL\nNoSQL\nKafka\nAWS\nDocker\nvim\nPandas\nNumpy\nasyncio\nBeautifulSoup\nTerraform\nLinux\nLangchain"
+    "text": "Skills\nHere are some of the skills that I’m proficient in, in no specific order.\n\n\nPython\nHTML\nCSS\nFastAPI\nFlask\nPyTorch\nTransformers\nData Structures and Algorithms\nRedis\nElasticsearch\nSQL\nNoSQL\nKafka\nAWS\nDocker\nvim\nPandas\nNumpy\nasyncio\nBeautifulSoup\nTerraform\nLinux\nLangchain\nOpenTelemetry\nSentry\nMLflow\nDatabricks\nBitbucket Pipelines\nTextual\nPydantic\nTyper\nLoguru\nMCP"
   },
   {
     "objectID": "index.html#education",
